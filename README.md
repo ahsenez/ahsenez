@@ -1,52 +1,39 @@
 # Hi, I'm Ahsen 👋
 
-Management Information Systems graduate with experience in retail, customer relations, and business operations. Currently building Python-based projects and transitioning into business + technology roles.
+🎓 Management Information Systems Graduate  
+📊 Interested in Business Analysis, CRM, Data Analytics & Product Operations  
+💻 Building Python / Flask / Web Projects  
+📍 Istanbul, Türkiye  
+🚀 Open to Business + Technology Opportunities
 
 ---
 
-## 🚀 Interests
+## 🔧 Tech Stack
 
-- Business Analysis  
-- CRM Systems  
-- Product Operations  
-- Data & Reporting  
-- Python Projects  
-
----
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- Python
+- Flask
+- SQL
+- HTML / CSS
+- GitHub
+- CRM Systems
+- Excel / Reporting
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Projects
 
-### CV Analyzer & Job Match App
+### TrendBoost AI
+AI-powered social media growth platform for content ideas, captions, hashtags and profile audits.
 
-A Flask-based web application that analyzes resumes, calculates ATS scores, detects skills, and compares CVs with job descriptions.
+### CRM Dashboard
+Customer analytics dashboard with KPI tracking.
 
-🔗 Live Demo:  
-https://cv-analyzer-9j03.onrender.com
-
----
-
-## 🎯 Currently Seeking
-
-Junior opportunities in:
-
-- Business Analyst  
-- CRM  
-- Product Operations  
-- Data / Reporting  
-- Operations  
+### CV Analyzer
+ATS score and resume matching tool.
 
 ---
 
-## 📍 Location
+## 📫 Connect With Me
 
-Istanbul, Türkiye
+- LinkedIn: https://linkedin.com/in/ahsenezgun
+- Email: ahsen_ezgun@hotmail.com
