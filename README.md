@@ -36,4 +36,4 @@ ATS score and resume matching tool.
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/ahsenezgun
-- Email: ahsen_ezgun@hotmail.com
+  
