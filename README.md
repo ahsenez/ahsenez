@@ -37,4 +37,4 @@ ATS score and resume matching tool.
 
 - LinkedIn: https://linkedin.com/in/ahsenezgun
 - Email: ahsen_ezgun@hotmail.com
-  
+  ahsen ezgün
