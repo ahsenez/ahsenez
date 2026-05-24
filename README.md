@@ -1,50 +1,92 @@
 <div align="center">
 
-# 🧠 RetailMind AI
+# RetailMind AI
 
-### AI-Powered Retail Intelligence Platform
+### Intelligent Retail Analytics Platform
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Retail+Analytics+Platform;Business+Intelligence+Dashboard;Sales+%26+Employee+Performance+Tracking;Modern+SaaS+Experience" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Analytics-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dashboard-0F172A?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahsenez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=RetailMind%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsenez&theme=tokyonight&hide_border=true&background=0D1117"/>
+> AI-powered retail intelligence dashboard focused on analytics, employee tracking, and predictive business insights.
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css" />
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business-Intelligence-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Analytics-Dashboard-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Modern-SaaS-7C3AED?style=flat-square"/>
 
 </div>
 
 ---
 
-# ✨ Overview
+## Overview
 
-RetailMind AI is a modern AI-powered retail intelligence platform designed to simulate a next-generation business analytics ecosystem.
+RetailMind AI is a next-generation retail intelligence platform designed to simulate modern business analytics systems used in data-driven retail environments.
 
-The platform focuses on:
-- 📊 Sales analytics
-- 👥 Employee performance tracking
-- 🧠 AI-generated business insights
-- 📈 KPI monitoring
-- 🛍 Retail intelligence systems
-- 🚀 Modern SaaS dashboard experience
-
----
-
-### CV Analyzer
-ATS score and resume matching tool.
+The platform provides:
+- AI-driven insights
+- Sales performance analytics
+- Employee performance monitoring
+- KPI tracking systems
+- Interactive dashboard experience
+- Modern SaaS-inspired UI
 
 ---
 
-## 📫 Connect With Me
+## Core Features
 
-- LinkedIn: https://linkedin.com/in/ahsenezgun 
+```diff
++ Revenue Analytics
++ Employee Intelligence
++ AI Recommendation System
++ KPI Monitoring
++ Sales Tracking Dashboard
++ Predictive Business Insights
+```
+
+---
+
+## Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Backend Logic |
+| Flask | Web Framework |
+| HTML/CSS | Interface Design |
+| JavaScript | Interactivity |
+| Render | Deployment |
+
+---
+
+## Live Demo
+
+https://retailmind-ai.onrender.com
+
+---
+
+## UI Preview
+
+Premium dark-themed analytics dashboard inspired by modern SaaS and business intelligence platforms.
+
+---
+
+## Future Improvements
+
+- Real-time analytics engine
+- Machine learning predictions
+- Authentication system
+- API integrations
+- AI chatbot assistant
+- Exportable reports
+
+---
