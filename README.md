@@ -4,7 +4,7 @@
 
 ### AI-Powered Retail Intelligence Platform
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Retail+Analytics+Platform;Business+Intelligence+Dashboard;Sales+%26+Employee+Performance+Tracking;Modern+SaaS+Experience" />
+
 
 <br>
 
