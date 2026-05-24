@@ -62,8 +62,4 @@ Business intelligence dashboard for product sales tracking and data visualizatio
 - Developing portfolio-ready SaaS projects
 - Learning advanced AI and machine learning concepts
 
----
 
-## Contact
-
-GitHub: https://github.com/YOUR_USERNAME
