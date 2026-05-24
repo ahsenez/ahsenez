@@ -1,41 +1,69 @@
-<div align="center">
+# Ahsen Ezgün
 
-# 🧠 RetailMind AI
+AI Developer & Business Intelligence Enthusiast
 
-### AI-Powered Retail Intelligence Platform
-
-
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Analytics-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dashboard-0F172A?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahsenez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsenez&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
+I build AI-powered dashboards, analytics platforms, automation systems, and modern web applications using Python and Flask.
 
 ---
 
-# ✨ Overview
+## About Me
 
-RetailMind AI is a modern AI-powered retail intelligence platform designed to simulate a next-generation business analytics ecosystem.
-
-The platform focuses on:
-- 📊 Sales analytics
-- 👥 Employee performance tracking
-- 🧠 AI-generated business insights
-- 📈 KPI monitoring
-- 🛍 Retail intelligence systems
-- 🚀 Modern SaaS dashboard experience
+- Management Information Systems graduate
+- Interested in Artificial Intelligence and Business Intelligence
+- Building modern analytics dashboards and AI projects
+- Focused on Python, Flask, Data Visualization, and Automation
+- Passionate about retail tech and smart business systems
 
 ---
+
+## Tech Stack
+
+### Languages
+- Python
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+
+### Frameworks & Tools
+- Flask
+- Git & GitHub
+- Render
+- VS Code
+
+### Analytics & AI
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## Featured Projects
+
+### RetailMind AI
+AI-powered retail intelligence platform with sales analytics, employee performance tracking, customer insights, and predictive business dashboards.
+
+### CV Analyzer
+Flask-based CV analyzer that calculates ATS score and matches resumes with job descriptions.
+
+### AI Visa Appointment Assistant
+Automation-focused visa appointment tracking dashboard with modern web interface.
+
+### Sales Analytics Dashboard
+Business intelligence dashboard for product sales tracking and data visualization.
+
+---
+
+## Current Focus
+
+- Building AI-powered dashboard systems
+- Improving backend and analytics skills
+- Developing portfolio-ready SaaS projects
+- Learning advanced AI and machine learning concepts
+
+---
+
+## Contact
+
+GitHub: https://github.com/YOUR_USERNAME
