@@ -40,19 +40,14 @@ databases, and modern AI technologies.
 </p>
 
 
-## 🧠 Featured Projects
+<p align="center">
 
-### 🤖 NeuroDesk AI
-AI-powered productivity assistant with automation features.
+<img src="https://github-readme-stats.vercel.app/api?username=ahsenez&show_icons=true&theme=transparent" />
 
-### 📈 TrendBoost AI
-AI-based social media analytics and trend analysis platform.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsenez&theme=transparent" />
 
-### 🏪 Retail CRM System
-Customer tracking and sales intelligence platform designed for retail businesses.
+</p>
 
-### 📦 Smart Inventory Dashboard
-Inventory management dashboard with analytics and visualization.
 
 
 <p align="center">
