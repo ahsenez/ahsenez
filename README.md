@@ -50,9 +50,12 @@ databases, and modern AI technologies.
 
 
 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenez&bg_color=fff7f5&color=b77b8a&line=c084fc&point=e8b4bc&area=true&hide_border=true" />
 </p>
+
+
 
 
 <p align="center">
