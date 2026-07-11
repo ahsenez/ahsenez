@@ -62,6 +62,7 @@ Inventory management dashboard with analytics and visualization.
 
 </p>
 
+![snake animation](https://raw.githubusercontent.com/ahsenez/ahsenez/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
