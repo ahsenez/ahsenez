@@ -15,9 +15,9 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ahsenez
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+  github_user_name: ahsenez
+  outputs: |
+    dist/github-contribution-grid-snake.svg?color_snake=%23d8b4a0&color_dots=%23f5e6d3,%23e8c7b8,%23c9a98b,%23b77b8a,%239b6b8f
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
