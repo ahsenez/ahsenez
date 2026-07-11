@@ -29,13 +29,12 @@ My interests include:
 Currently building projects with Python, Flask, JavaScript, React,
 databases, and modern AI technologies.
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsenez&show_icons=true&theme=tokyonight&count_private=true" alt="Ahsen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsenez&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+### 🌟 Proje Adı (Örn: AI-Powered Business Analytics)
+- **Açıklama:** KOBİ'lerin veri analizi süreçlerini otomatize eden yapay zeka destekli full-stack platform.
+- **Teknolojiler:** Python, Flask, React, OpenAI API, PostgreSQL
+- [🔗 Canlı Demo / İncele](https://github.com/ahsenez/proje-linki)
 
 
 <p align="center">
