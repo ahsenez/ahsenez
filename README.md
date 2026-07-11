@@ -1,6 +1,9 @@
-<h1 align="center">
-  Hi 👋 I'm Ahsen Ezgün
-</h1>
+# Hi 👋 I'm Ahsen Ezgün
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&width=450&lines=AI+%26+Full+Stack+Developer;Management+Information+Systems;Building+Data-Driven+Solutions" alt="Typing SVG" />
+</p>
+
 
 <h3 align="center">
   AI & Full Stack Developer | Management Information Systems
@@ -29,12 +32,7 @@ My interests include:
 Currently building projects with Python, Flask, JavaScript, React,
 databases, and modern AI technologies.
 
-## 🚀 Featured Projects
 
-### 🌟 Proje Adı (Örn: AI-Powered Business Analytics)
-- **Açıklama:** KOBİ'lerin veri analizi süreçlerini otomatize eden yapay zeka destekli full-stack platform.
-- **Teknolojiler:** Python, Flask, React, OpenAI API, PostgreSQL
-- [🔗 Canlı Demo / İncele](https://github.com/ahsenez/proje-linki)
 
 
 <p align="center">
