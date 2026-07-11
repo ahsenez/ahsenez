@@ -30,7 +30,7 @@ Currently building projects with Python, Flask, JavaScript, React,
 databases, and modern AI technologies.
 
 
-## 🛠️ Tech Stack
+
 
 
 <p align="center">
@@ -38,6 +38,8 @@ databases, and modern AI technologies.
 <img src="https://skillicons.dev/icons?i=python,flask,js,ts,react,nextjs,nodejs,html,css,mysql,mongodb,git,github,docker,aws" />
 
 </p>
+
+
 
 
 <p align="center">
