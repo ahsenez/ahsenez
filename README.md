@@ -55,31 +55,11 @@ Customer tracking and sales intelligence platform designed for retail businesses
 Inventory management dashboard with analytics and visualization.
 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahsenez&show_icons=true&theme=transparent" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsenez&theme=transparent" />
-
-</p>
-
-
 ## 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenez&theme=github-dark" />
-
-</p>
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahsenez&theme=darkhub&row=1" />
 
 </p>
 
