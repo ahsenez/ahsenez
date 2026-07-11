@@ -65,8 +65,5 @@ databases, and modern AI technologies.
 
 ## 📫 Connect With Me
 
-LinkedIn:  
-www.linkedin.com
-
-Portfolio:
-Coming soon 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KULLANICI_ADIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://PORTFOLIO_LINKIN)
