@@ -29,7 +29,12 @@ My interests include:
 Currently building projects with Python, Flask, JavaScript, React,
 databases, and modern AI technologies.
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsenez&show_icons=true&theme=tokyonight&count_private=true" alt="Ahsen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsenez&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
 
