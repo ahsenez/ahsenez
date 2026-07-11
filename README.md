@@ -1,17 +1,93 @@
-# Ahsen Ezgün
+<h1 align="center">
+  Hi 👋 I'm Ahsen Ezgün
+</h1>
 
-Full-stack developer building AI-powered SaaS products, dashboards, and automation tools focused on real business use cases.
+<h3 align="center">
+  AI & Full Stack Developer | Management Information Systems
+</h3>
 
-I enjoy designing systems that turn data into insights and improve productivity through AI.
+<p align="center">
+  Building intelligent applications with AI, modern web technologies, 
+  and data-driven solutions.
+</p>
 
----
+
+## 🚀 About Me
+
+I'm a Management Information Systems graduate focused on building 
+AI-powered applications and full-stack web solutions.
+
+I enjoy combining software development, artificial intelligence, 
+and business processes to create practical solutions.
+
+My interests include:
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full Stack Web Development
+- 📊 Data Analytics & Decision Support Systems
+- 🏢 AI solutions for businesses and SMEs
+
+Currently building projects with Python, Flask, JavaScript, React,
+databases, and modern AI technologies.
+
 
 ## 🛠️ Tech Stack
 
-Python • Flask • JavaScript • HTML/CSS • AI/ML • NLP • Data Analytics • REST APIs • Git
 
----
+<p align="center">
 
-## 🎯 Interests
+<img src="https://skillicons.dev/icons?i=python,flask,js,ts,react,nextjs,nodejs,html,css,mysql,mongodb,git,github,docker,aws" />
 
-AI products • SaaS development • Automation systems • Data-driven applications
+</p>
+
+
+## 🧠 Featured Projects
+
+### 🤖 NeuroDesk AI
+AI-powered productivity assistant with automation features.
+
+### 📈 TrendBoost AI
+AI-based social media analytics and trend analysis platform.
+
+### 🏪 Retail CRM System
+Customer tracking and sales intelligence platform designed for retail businesses.
+
+### 📦 Smart Inventory Dashboard
+Inventory management dashboard with analytics and visualization.
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahsenez&show_icons=true&theme=transparent" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsenez&theme=transparent" />
+
+</p>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenez&theme=github-dark" />
+
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahsenez&theme=darkhub&row=1" />
+
+</p>
+
+
+## 📫 Connect With Me
+
+LinkedIn:  
+www.linkedin.com
+
+Portfolio:
+Coming soon 🚀
