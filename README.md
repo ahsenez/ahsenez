@@ -42,7 +42,9 @@ databases, and modern AI technologies.
 </p>
 
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsenez&theme=rose_pine" alt="Ahsen's Streak" />
+</p>
 
 
 <p align="center">
