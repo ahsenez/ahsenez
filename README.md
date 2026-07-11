@@ -63,10 +63,10 @@ Inventory management dashboard with analytics and visualization.
 
 </p>
 
-## 🐍 Contribution Snake
+## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahsenez/ahsenez/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenez&theme=github-dark" />
 </p>
 
 ## 📫 Connect With Me
