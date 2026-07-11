@@ -55,7 +55,6 @@ Customer tracking and sales intelligence platform designed for retail businesses
 Inventory management dashboard with analytics and visualization.
 
 
-## 📈 Contribution Graph
 
 <p align="center">
 
@@ -63,11 +62,6 @@ Inventory management dashboard with analytics and visualization.
 
 </p>
 
-## 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenez&theme=github-dark" />
-</p>
 
 ## 📫 Connect With Me
 
