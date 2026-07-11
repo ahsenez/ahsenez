@@ -43,14 +43,11 @@ databases, and modern AI technologies.
 
 
 
-### 📊 Profile Metrics
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsenez&theme=rose_pine" alt="GitHub Profile Summary" />
 </p>
-
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahsenez&show_icons=true&bg_color=fff7f5&title_color=b77b8a&text_color=8b6f7d&icon_color=c084fc&border_color=e8b4bc" />
 
