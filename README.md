@@ -55,11 +55,8 @@ Customer tracking and sales intelligence platform designed for retail businesses
 Inventory management dashboard with analytics and visualization.
 
 
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenez&theme=github-dark" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenez&bg_color=1a1025&color=d8b4fe&line=c084fc&point=f0abfc&area=true&hide_border=true" />
 </p>
 
 
