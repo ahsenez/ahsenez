@@ -47,11 +47,12 @@ databases, and modern AI technologies.
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsenez&theme=rose_pine" alt="GitHub Profile Summary" />
-</p>
-<p align="center">
 
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahsenez&show_icons=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&border_color=f5c2e7&count_private=true" alt="Ahsen's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahsenez&layout=compact&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=f5c2e7" alt="Top Languages" />
+</p>
 
 
 
