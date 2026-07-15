@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ahsen Ezgün
+# Hi 👋 I'm Ahsen Ez
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&width=450&lines=AI+%26+Full+Stack+Developer;Management+Information+Systems;Building+Data-Driven+Solutions" alt="Typing SVG" />
