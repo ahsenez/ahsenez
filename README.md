@@ -59,7 +59,7 @@ databases, and modern AI technologies.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahsenez/ahsenez/gh-pages/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ahsenez/ahsenez/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>
 
 
