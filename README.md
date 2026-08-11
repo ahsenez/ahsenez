@@ -45,13 +45,6 @@ databases, and modern AI technologies.
 
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahsenez&show_icons=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&border_color=f5c2e7&count_private=true" alt="Ahsen's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahsenez&layout=compact&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=f5c2e7" alt="Top Languages" />
-</p>
-
-
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenez&bg_color=fff7f5&color=b77b8a&line=c084fc&point=e8b4bc&area=true&hide_border=true" />
 </p>
 
